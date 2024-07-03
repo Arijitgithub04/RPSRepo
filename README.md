@@ -1,1 +1,1 @@
-# This is my first game git project
+# This is my first game git project.
